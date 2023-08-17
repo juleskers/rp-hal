@@ -112,7 +112,7 @@ particular board.
 
 ### [BSPs] - Board support packages
 
-There are BSPs for various boards based on the RP2040 avaialble in
+There are BSPs for various boards based on the RP2040 available in
 a [separate repository][BSPs].
 
 [rp2040-hal]: https://github.com/rp-rs/rp-hal/tree/main/rp2040-hal
